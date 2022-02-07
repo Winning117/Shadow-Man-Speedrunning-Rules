@@ -14,7 +14,7 @@ Note: These rules apply to all categories, but some categories can supercede the
 5. You do not have to use the auto-splitter but this is not recommended because you will lose time to loads. If you do not use the auto-splitter and manually pause the timer for loads then your run will not be accepted because this is inaccurate and hard to verify.
 6. Custom LiveSplit layouts are allowed and encouraged, but your splits should include an in-game timer. If you have your layout set to show Real Time instead of In-Game Time then your submission will include load times (not recommended).
 7. You can not tab out of the game to execute glitches, this is out of the scope of the game engine itself.
-8. On-screen FPS counters are recommended but not required due to FPS not affecting the speed of the game (it did in the original). I recommend using Steam's built-in FPS counter, but some alternatives are Fraps, Dxtory, GeForce Experience (for NVIDIA), and RadeonPro (for AMD).
+8. On-screen FPS counters are recommended but not required due to FPS not affecting the speed of the game (it did in the original). You can enable FPS by typing `con_showfps 1` in the console. External FPS counters are allowed, but using the one provided by the game will produce the best results.
 9.  You may not type commands into the developer console at any point during the run, and you must have all developer console cheats disabled.
 10. Video submissions must be 480p or higher to provide sufficient proof that a run is legitimate. Desirable resolution is 720p or higher.
 11. Glitches are allowed for all categories except for categories that explicitly ban them (see Glitchless). Note that this is different from a hack/exploit.

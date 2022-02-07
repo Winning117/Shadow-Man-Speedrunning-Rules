@@ -3,7 +3,7 @@
 ---
 
 # General Rules
-Note: These rules apply to all categories, but some categories can supercede these rules. These cases will be pointed out explicitly.
+Note: These rules apply to all categories, but some categories can supersede these rules. These cases will be pointed out explicitly.
 
 1. No hacking/exploiting is allowed, such as modifying game files to edit speed, values, etc.
 2. Using the in-game save system IS allowed because it was intentionally implemented by the devs.
@@ -23,7 +23,7 @@ Note: These rules apply to all categories, but some categories can supercede the
 
 # Patch 1.0 Special Notes
 1. You may type "freecam" into the developer console before starting your run, which will disable a special door that was put into the game right before the final cutscene.
-   * a) This rule is allowed based on a community vote. This door was originally made to troll speedrunners and the developer who introduced the door said they would be removing it in the next patch. Unfortunately, the next patch also introduced a bunch of new limitations, such as disabling wall jumping. Due to this annoyance, we decided to make a separate category (1.0) that allows players to experience a version of the game which doesn't have the troll final door, and which also has walljumping. Ideally there would be a version with walljumping and without the final door, but unfortunately the walljumping patch was included with the patch that removed the troll door. **This supercedes General Rule 9**.
+   * a) This rule is allowed based on a community vote. This door was originally made to troll speedrunners and the developer who introduced the door said they would be removing it in the next patch. Unfortunately, the next patch also introduced a bunch of new limitations, such as disabling wall jumping. Due to this annoyance, we decided to make a separate category (1.0) that allows players to experience a version of the game which doesn't have the troll final door, and which also has walljumping. Ideally there would be a version with walljumping and without the final door, but unfortunately the walljumping patch was included with the patch that removed the troll door. **This supersedes General Rule 9**.
 
 ---
 
@@ -40,7 +40,7 @@ Note: This category is essentially synonymous with 95 Souls, which is the intend
 ## any% NG+
 Note: `NG+` stands for `New Game Plus`
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. You are allowed to activate secrets that have been obtained in other saves. These secrets are "game-wide", meaning that they are not tied to a single save. If you unlock the secret in any one of your save files, the secret will show up in the secrets menu no matter what save file you load. **This supercedes General Rule 4b**.
+2. You are allowed to activate secrets that have been obtained in other saves. These secrets are "game-wide", meaning that they are not tied to a single save. If you unlock the secret in any one of your save files, the secret will show up in the secrets menu no matter what save file you load. **This supersedes General Rule 4b**.
    * a) This includes ALL secrets and the glitches that result from them, such as Duppie Jump.
    * b) You are allowed to start runs with secrets enabled as this is an intended feature of NG+.
    * c) General Rule 4a still applies, you may not duplicate items across saves.
@@ -59,16 +59,16 @@ Note: `NG+` stands for `New Game Plus`
 
 ## Glitchless any%
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supercedes General Rule 11**
+2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supersedes General Rule 11**
 
 ## Glitchless All Souls
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supercedes General Rule 11**
+2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supersedes General Rule 11**
 3. You must gather all 120 Souls.
 
 ## Glitchless 100%
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supercedes General Rule 11**
+2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supersedes General Rule 11**
 3. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
 
 ---

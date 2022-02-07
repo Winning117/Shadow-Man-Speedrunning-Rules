@@ -23,7 +23,7 @@ Note: These rules apply to all categories, but some categories can supercede the
 
 # Patch 1.0 Special Notes
 1. You may type "freecam" into the developer console before starting your run, which will disable a special door that was put into the game right before the final cutscene.
-   * a) This rule is allowed based on a community vote. This door was originally made to troll speedrunners and the developer who introduced the door said they would be removing it in the next patch. Unfortunately, the next patch also introduced a bunch of new limitations, such as disabling wall jumping. Due to this annoyance, we decided to make a separate category (1.0) that allows players to experience a version of the game which doesn't have the troll final door, and which also has walljumping. Ideally there would be a version with walljumping and without the final door, but unfortunately the walljumping patch was included with the patch that removed the troll door.
+   * a) This rule is allowed based on a community vote. This door was originally made to troll speedrunners and the developer who introduced the door said they would be removing it in the next patch. Unfortunately, the next patch also introduced a bunch of new limitations, such as disabling wall jumping. Due to this annoyance, we decided to make a separate category (1.0) that allows players to experience a version of the game which doesn't have the troll final door, and which also has walljumping. Ideally there would be a version with walljumping and without the final door, but unfortunately the walljumping patch was included with the patch that removed the troll door. **This supercedes General Rule 9**.
 
 ---
 

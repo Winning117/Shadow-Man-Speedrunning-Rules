@@ -37,6 +37,14 @@ Note: This category is essentially synonymous with 95 Souls, which is the intend
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. You are not allowed to skip the pistons; any glitch that results in you bypassing the pistons to go directly to Legion will disqualify your run. This includes jumping over the pistons to activate them and then jumping or warping back to the main piston room.
 
+## any% NG+
+Note: `NG+` stands for `New Game Plus`
+1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
+2. You are allowed to activate secrets that have been obtained in other saves. These secrets are "game-wide", meaning that they are not tied to a single save. If you unlock the secret in any one of your save files, the secret will show up in the secrets menu no matter what save file you load. **This supercedes General Rule 4b**.
+   * a) This includes ALL secrets and the glitches that result from them, such as Duppie Jump.
+   * b) You are allowed to start runs with secrets enabled as this is an intended feature of NG+.
+   * c) General Rule 4a still applies, you may not duplicate items across saves.
+
 ## All Souls
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. You must gather all 120 Souls.
@@ -51,19 +59,20 @@ Note: This category is essentially synonymous with 95 Souls, which is the intend
 
 ## Glitchless any%
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc.
+2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supercedes General Rule 11**
 
 ## Glitchless All Souls
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc.
+2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supercedes General Rule 11**
 3. You must gather all 120 Souls.
 
 ## Glitchless 100%
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc.
+2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supercedes General Rule 11**
 3. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
 
 ---
 
 ## Rule History:
+- 2/6/2022 - any% NG+ category has been created
 - 2/4/2022 - General Rules - Rule 4b was added

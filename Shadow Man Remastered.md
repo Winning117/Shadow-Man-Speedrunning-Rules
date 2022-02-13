@@ -54,9 +54,19 @@ Note: `NG+` stands for `New Game Plus`
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. You must gather all 120 Souls.
 
+## All Souls NG+
+1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
+2. You must gather all 120 Souls.
+3. See **New Game Plus Notes** above
+
 ## 100%
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
+
+## 100% NG+
+1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
+2. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
+3. See **New Game Plus Notes** above
 
 ---
 
@@ -79,5 +89,6 @@ Note: `NG+` stands for `New Game Plus`
 ---
 
 ## Rule History:
+- 2/12/2022 - All Souls NG+ and 100% NG+ categories have been added
 - 2/6/2022 - any% NG+ category has been created
 - 2/4/2022 - General Rules - Rule 4b was added

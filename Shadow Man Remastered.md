@@ -59,28 +59,16 @@ Note: This category is essentially synonymous with 95 Souls, which is the intend
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. You are not allowed to skip the pistons; any glitch that results in you bypassing the pistons to go directly to Legion will disqualify your run. This includes jumping over the pistons to activate them and then jumping or warping back to the main piston room.
 
-## any% NG+
-Note: `NG+` stands for `New Game Plus`
-1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. See **New Game Plus Notes** above
-
 ## All Souls
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. You must gather all 120 Souls.
-
-## All Souls NG+
-1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. You must gather all 120 Souls.
-3. See **New Game Plus Notes** above
 
 ## 100%
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
 
-## 100% NG+
-1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
-2. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
-3. See **New Game Plus Notes** above
+## NG+
+1. NG+ includes the normal categories in the Main Categories section, except with the addition of NG+ rules. See the **New Game Plus Notes** section above
 
 ---
 
@@ -101,7 +89,7 @@ Note: `NG+` stands for `New Game Plus`
 3. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
 
 ## Cheat%
-1. Cheat% includes the normal categories in the Main Categories section, except with the addition of Cheat% rules. See `Cheat% Notes` above
+1. Cheat% includes the normal categories in the Main Categories section, except with the addition of Cheat% rules. See the **Cheat% Notes** section above
 
 ---
 

@@ -29,6 +29,20 @@ Note: These rules apply to all categories, but some categories can supersede the
 
 ---
 
+# Cheat% Notes
+1. You ARE allowed to use the following commands: (**This supersedes General Rule 9**)
+   * `stat`
+   * `infiniteammo`
+   * `giveinv`
+   * `givevoodoo`
+   * `givecadeaux`
+   * `giveammo` (includes all `giveammo` commands)
+   * `givegad`
+2. The above commands are allowed because they make the speedrun interesting, but don't completely break the speedrun. Commands such as `god` or `jumpsector` make the speedrun way too trivial and are therefore not included in this category.
+3. All commands must be entered *after* the timer starts.
+
+---
+
 # Patch 1.0 Special Notes
 1. You may type "freecam" into the developer console before starting your run, which will disable a special door that was put into the game right before the final cutscene.
    * a) This rule is allowed based on a community vote. This door was originally made to troll speedrunners and the developer who introduced the door said they would be removing it in the next patch. Unfortunately, the next patch also introduced a bunch of new limitations, such as disabling wall jumping. Due to this annoyance, we decided to make a separate category (1.0) that allows players to experience a version of the game which doesn't have the troll final door, and which also has walljumping. Ideally there would be a version with walljumping and without the final door, but unfortunately the walljumping patch was included with the patch that removed the troll door. **This supersedes General Rule 9**.
@@ -86,9 +100,13 @@ Note: `NG+` stands for `New Game Plus`
 2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supersedes General Rule 11**
 3. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
 
+## Cheat%
+1. Cheat% includes the normal categories in the Main Categories section, except with the addition of Cheat% rules. See `Cheat% Notes` above
+
 ---
 
 ## Rule History:
+- 2/13/2022 - Added Cheat% categories
 - 2/12/2022 - All Souls NG+ and 100% NG+ categories have been added
 - 2/6/2022 - any% NG+ category has been created
 - 2/4/2022 - General Rules - Rule 4b was added

@@ -86,7 +86,8 @@ Note: This category is essentially synonymous with 95 Souls, which is the intend
 ## Glitchless 100%
 1. Timer starts when you first gain control of Michael after starting a "New Adventure" and the timer ends when you kill Legion's flying form.
 2. Glitches are NOT allowed, this includes OoB tricks, strafing/rolling to skip areas, rope warping, etc. **This supersedes General Rule 11**
-3. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
+   * a) Strafing/rolling can be used to get the teddy in Wasteland as this is the route intended by developers.
+4. You must gather all 120 Souls, all inventory items, all secrets, and all 666 Cadeaux.
 
 ## Cheat%
 1. Cheat% includes the normal categories in the Main Categories section, except with the addition of Cheat% rules. See the **Cheat% Notes** section above
@@ -94,6 +95,7 @@ Note: This category is essentially synonymous with 95 Souls, which is the intend
 ---
 
 ## Rule History:
+- 8/10/2022 - Added Glitchless 100% addendum to allow rolling to get the Wasteland teddy
 - 2/13/2022 - Added Cheat% categories
 - 2/12/2022 - All Souls NG+ and 100% NG+ categories have been added
 - 2/6/2022 - any% NG+ category has been created
